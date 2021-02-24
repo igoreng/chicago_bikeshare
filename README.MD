@@ -11,3 +11,8 @@ Para visualizar os gráficos, é necessário ter a biblioteca Matplotlib.
 ### 🛠 Tecnologias:
 
 - Python
+
+
+
+
+Autor: [Igor](https://www.linkedin.com/in/oigorsilva/)
